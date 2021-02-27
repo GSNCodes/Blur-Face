@@ -29,6 +29,13 @@ For more details on other parameters use `python face_blur.py --help`
 
 <img src ='output/face_blurred_output.png' width = 400>  
 
+## Applications
+These are some of the use cases where face blurring is of utmost importance.  
+- Identity protection
+- Journalism
+- Protection of Children (Online Uploads)
+- Dataset Curation and Distribution
+
 ## Notes:
 
 Do note that this cannot perform seamlessly in non-ideal conditions such as low-lighting and close proximity of faces etc. But, this is can be improved by using better face detectors that are based on deep learning approaches.
